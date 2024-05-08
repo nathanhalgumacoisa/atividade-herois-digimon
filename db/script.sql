@@ -39,6 +39,6 @@ INSERT INTO digimon (nome, nivel, tipo, ataqueEspecial, dano, HP, defesa, veloci
 
 INSERT INTO digimon (nome, nivel, tipo, ataqueEspecial, dano, HP, defesa, velocidade, campo) VALUES 
 ('Palmon', 1, 'dado', 'Poison Ivy', 50, 60, 10, 12, 'Jungle Troopers'),
-('Garurumon', 2, 'vacina', 'Fox Fire', 108, 100, 13, 15, 'Metal Empire'),
-('WereGarurumon', 3, 'vacina', 'Kaiser Nail', 130, 140, 18, 17, 'Metal Empire'),
-('MetalGarurumon', 4, 'dado', 'Cocytus Breath', 190, 245, 27, 20, 'Metal Empire');
+('Togemon', 2, 'dado', 'Chikuchiku banban', 108, 100, 13, 15, 'Jungle Troopers'),
+('Lillymon', 3, 'vacina', 'Flower Cannon', 130, 140, 18, 17, 'Jungle Troopers'),
+('MetalGarurumon', 4, 'dado', 'Cocytus Breath', 190, 245, 27, 20, 'Jungle Troopers');
